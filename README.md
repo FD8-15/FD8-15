@@ -1,201 +1,241 @@
-<!-- ═══════════════════════ RAINBOW HEADER ═══════════════════════ -->
+<!-- ============================== HERO ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,8,12,18,24&height=260&section=header&text=Raj%20Naik&fontSize=76&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20MongoDB&descSize=20&descAlignY=58" alt="Header" width="100%" />
+  <img src="assets/banner.svg" alt="Raj Naik — Backend Developer" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Raj+Naik+%F0%9F%91%8B;Backend+Developer+%7C+Node.js+%7C+Express;PostgreSQL+%7C+MongoDB+%7C+REST+APIs;Building+Real-World+Backend+Systems" alt="Typing" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="Waving hand" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-FF3CAC?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
-</p>
-<p align="center">
-  <b>✨ Backend Developer building real-world applications and learning production-grade backend engineering ✨</b>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FD8-15&label=Profile%20Views&color=ff6ec7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/FD8-15?style=for-the-badge&logo=github&color=feca57&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/FD8-15?style=for-the-badge&logo=github&color=48dbfb&labelColor=1a1a2e" alt="Stars" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=FECA57&center=true&vCenter=true&width=500&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
-</p>
-<table align="center">
-  <tr>
-    <td>🎓 <b>Computer Science Engineering</b> student</td>
-    <td>💻 Focused on <b>backend development</b></td>
-  </tr>
-  <tr>
-    <td>🚀 Building real-world projects with <b>Node.js & Express</b></td>
-    <td>🗄️ Working with <b>PostgreSQL</b> and <b>MongoDB</b></td>
-  </tr>
-  <tr>
-    <td>🔐 Into authentication, authorization & security</td>
-    <td>🧠 Learning database optimization & system design</td>
-  </tr>
-</table>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=48DBFB&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=36&section=header&text=BACKEND&fontSize=16&fontColor=ffffff" width="300" /><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-FF3CAC?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Socket.IO-8E2DE2?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8&height=36&section=header&text=DATABASES&fontSize=16&fontColor=ffffff" width="300" /><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mongoose-FF6B6B?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,24&height=36&section=header&text=TOOLS%20%26%20CLOUD&fontSize=16&fontColor=ffffff" width="300" /><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-8E2DE2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,12&height=36&section=header&text=TESTING&fontSize=16&fontColor=ffffff" width="300" /><br/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-FF9F43?style=for-the-badge&logoColor=white" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=FF6EC7&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
-</p>
-<!-- SmartERP -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8&height=170&section=header&text=SmartERP&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Multi-company%20ERP%20REST%20API&descSize=18&descAlignY=60" width="100%" />
-</p>
-<p align="center">
-  <i>Inventory • Purchases • Sales • Payments • Receipts</i>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express_5-FF3CAC?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-FF9F43?style=flat-square" />
-</p>
-<table align="center">
-  <tr>
-    <td width="33%" align="center">🏢<br/><b>Multi-company</b><br/>architecture</td>
-    <td width="33%" align="center">🔒<br/><b>Data isolation</b><br/>per company</td>
-    <td width="33%" align="center">👥<br/><b>Role-based</b><br/>access control</td>
-  </tr>
-  <tr>
-    <td align="center">📦<br/><b>Inventory</b><br/>& stock management</td>
-    <td align="center">🧾<br/><b>Purchase & sales</b><br/>voucher workflows</td>
-    <td align="center">💳<br/><b>Payments</b><br/>& receipts</td>
-  </tr>
-  <tr>
-    <td align="center">🔄<br/><b>PostgreSQL</b><br/>transactions</td>
-    <td align="center" colspan="2">🧪<br/><b>Integration testing</b> with Vitest + Supertest</td>
-  </tr>
-</table>
-<p align="center">
-  <a href="https://github.com/FD8-15/SmartERP"><img src="https://img.shields.io/badge/🔗_View_SmartERP-FF3CAC?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/FD8-15"><img src="https://img.shields.io/badge/GitHub-FD8--15-0b1020?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0b1020&color=1b2742" alt="GitHub" /></a>
+  <a href="https://github.com/FD8-15/SmartERP"><img src="https://img.shields.io/badge/Project-SmartERP-0b1020?style=for-the-badge&labelColor=0b1020&color=1b2742" alt="SmartERP" /></a>
+  <a href="https://github.com/FD8-15/real-time-service-booking-system"><img src="https://img.shields.io/badge/Project-NearBy_Services-0b1020?style=for-the-badge&labelColor=0b1020&color=1b2742" alt="NearBy Services" /></a>
+  <!-- Add your real links below (LinkedIn / email / portfolio), then un-comment:
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1020?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0b1020&color=1b2742" alt="LinkedIn" /></a>
+  <a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-Contact-0b1020?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0b1020&color=1b2742" alt="Email" /></a>
+  -->
 </p>
 <br/>
-<!-- Booking -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=170&section=header&text=Service%20Booking%20System&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-time%20nearby%20service%20discovery%20%26%20bookings&descSize=18&descAlignY=60" width="100%" />
-</p>
-<p align="center">
-  <i>Discover nearby services, manage bookings, receive real-time updates.</i>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-FF3CAC?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=flat-square&logo=mongodb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mongoose-FF6B6B?style=flat-square&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-8E2DE2?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-</p>
-<table align="center">
+<!-- ============================== ABOUT ============================== -->
+<img src="assets/sec-about.svg" alt="About" width="100%" />
+<table>
   <tr>
-    <td width="33%" align="center">📍<br/><b>Nearby service</b><br/>discovery</td>
-    <td width="33%" align="center">🔐<br/><b>JWT auth</b><br/>& authorization</td>
-    <td width="33%" align="center">📅<br/><b>Booking</b><br/>management</td>
-  </tr>
-  <tr>
-    <td align="center">⚡<br/><b>Real-time updates</b><br/>with Socket.IO</td>
-    <td align="center">☁️<br/><b>Cloudinary</b><br/>image uploads</td>
-    <td align="center">🧩<br/><b>Modular</b><br/>architecture</td>
-  </tr>
-  <tr>
-    <td align="center">🗄️<br/><b>MongoDB Atlas</b><br/>integration</td>
-    <td align="center" colspan="2">🛡️<br/><b>Middleware-based</b> request handling</td>
+    <td width="62%" valign="top">
+I'm a **Computer Science Engineering student** focused on **backend development**. I build real-world applications with **Node.js and Express**, work with both **PostgreSQL and MongoDB**, and care most about the parts users never see: authentication, authorization, data integrity and APIs that behave under pressure.
+ 
+Right now I'm going deeper into database optimization, production-grade backend engineering and system design.
+ 
+  </td>
+  <td width="38%" valign="top">
+```yaml
+role:      Backend Developer
+studying:  Computer Science Eng.
+runtime:   Node.js / Express
+data:      PostgreSQL / MongoDB
+interest:  Auth / Security / Scale
+status:    Building + learning
+```
+ 
+  </td>
   </tr>
 </table>
+<br/>
+<!-- ============================== TECH STACK ============================== -->
+<img src="assets/sec-stack.svg" alt="Tech Stack" width="100%" />
+<table>
+  <tr>
+    <td width="170"><sub><b>RUNTIME &amp; API</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=7dd3fc" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-0b1020?style=flat-square&logo=express&logoColor=7dd3fc" alt="Express" />
+      <img src="https://img.shields.io/badge/JavaScript-0b1020?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/REST_APIs-0b1020?style=flat-square" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>DATABASES</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0b1020?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB_Atlas-0b1020?style=flat-square&logo=mongodb&logoColor=7dd3fc" alt="MongoDB Atlas" />
+      <img src="https://img.shields.io/badge/Mongoose-0b1020?style=flat-square&logo=mongoose&logoColor=7dd3fc" alt="Mongoose" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>AUTH &amp; REAL-TIME</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-0b1020?style=flat-square&logo=jsonwebtokens&logoColor=7dd3fc" alt="JWT" />
+      <img src="https://img.shields.io/badge/Socket.IO-0b1020?style=flat-square&logo=socketdotio&logoColor=7dd3fc" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/Cloudinary-0b1020?style=flat-square&logo=cloudinary&logoColor=7dd3fc" alt="Cloudinary" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>TESTING</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vitest-0b1020?style=flat-square&logo=vitest&logoColor=7dd3fc" alt="Vitest" />
+      <img src="https://img.shields.io/badge/Supertest-0b1020?style=flat-square" alt="Supertest" />
+      <img src="https://img.shields.io/badge/Postman-0b1020?style=flat-square&logo=postman&logoColor=7dd3fc" alt="Postman" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>TOOLS &amp; CLOUD</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0b1020?style=flat-square&logo=git&logoColor=7dd3fc" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0b1020?style=flat-square&logo=github&logoColor=7dd3fc" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Docker-0b1020?style=flat-square&logo=docker&logoColor=7dd3fc" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-0b1020?style=flat-square&logo=amazonaws&logoColor=7dd3fc" alt="AWS" />
+      <img src="https://img.shields.io/badge/VS_Code-0b1020?style=flat-square&logo=visualstudiocode&logoColor=7dd3fc" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- ============================== PROJECTS ============================== -->
+<img src="assets/sec-missions.svg" alt="Featured Projects" width="100%" />
+<!-- ---------- SmartERP ---------- -->
 <p align="center">
-  <a href="https://github.com/FD8-15/real-time-service-booking-system"><img src="https://img.shields.io/badge/🔗_View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/FD8-15/SmartERP"><img src="assets/mission-smarterp.svg" alt="SmartERP — Multi-company ERP REST API" width="100%" /></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ═══════════════════════ LEARNING ═══════════════════════ -->
+A multi-company ERP REST API that manages inventory, purchases, sales, payments and receipts. Every company's data is isolated from every other company's, and access is controlled by role.
+ 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=7dd3fc" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express_5-0b1020?style=flat-square&logo=express&logoColor=7dd3fc" alt="Express 5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b1020?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JWT-0b1020?style=flat-square&logo=jsonwebtokens&logoColor=7dd3fc" alt="JWT" />
+  <img src="https://img.shields.io/badge/Vitest-0b1020?style=flat-square&logo=vitest&logoColor=7dd3fc" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Supertest-0b1020?style=flat-square" alt="Supertest" />
+</p>
+<details>
+<summary><b>Backend highlights</b></summary>
+<br/>
+| Area | What it does |
+|:--|:--|
+| **Multi-tenancy** | Multi-company architecture with company-level data isolation |
+| **Access control** | JWT authentication with role-based access control |
+| **Business workflows** | Inventory and stock management, purchase and sales vouchers, payments and receipts |
+| **Data integrity** | PostgreSQL database transactions |
+| **Testing** | Integration tests with Vitest + Supertest |
+ 
+</details>
+<a href="https://github.com/FD8-15/SmartERP"><img src="https://img.shields.io/badge/View_Repository-SmartERP-0b1020?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0b1020&color=1b2742" alt="View SmartERP repository" /></a>
+ 
+<br/><br/>
+ 
+<!-- ---------- NearBy Services ---------- -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=00ED64&center=true&vCenter=true&width=500&lines=%F0%9F%93%9A+Currently+Learning" alt="Currently Learning" />
+  <a href="https://github.com/FD8-15/real-time-service-booking-system"><img src="assets/mission-nearby.svg" alt="NearBy Services — Real-time service booking platform" width="100%" /></a>
+</p>
+A service booking platform where users discover nearby services, manage bookings and receive real-time updates.
+ 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0b1020?style=flat-square&logo=nodedotjs&logoColor=7dd3fc" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0b1020?style=flat-square&logo=express&logoColor=7dd3fc" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-0b1020?style=flat-square&logo=mongodb&logoColor=7dd3fc" alt="MongoDB Atlas" />
+  <img src="https://img.shields.io/badge/Mongoose-0b1020?style=flat-square&logo=mongoose&logoColor=7dd3fc" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Socket.IO-0b1020?style=flat-square&logo=socketdotio&logoColor=7dd3fc" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/JWT-0b1020?style=flat-square&logo=jsonwebtokens&logoColor=7dd3fc" alt="JWT" />
+  <img src="https://img.shields.io/badge/Cloudinary-0b1020?style=flat-square&logo=cloudinary&logoColor=7dd3fc" alt="Cloudinary" />
+</p>
+<details>
+<summary><b>Backend highlights</b></summary>
+<br/>
+| Area | What it does |
+|:--|:--|
+| **Discovery** | Nearby service discovery |
+| **Auth** | JWT authentication and authorization |
+| **Bookings** | Booking management |
+| **Real-time** | Live updates over Socket.IO |
+| **Storage** | MongoDB Atlas for data, Cloudinary for image uploads |
+| **Architecture** | Modular backend with middleware-based request handling |
+ 
+</details>
+<a href="https://github.com/FD8-15/real-time-service-booking-system"><img src="https://img.shields.io/badge/View_Repository-NearBy_Services-0b1020?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0b1020&color=1b2742" alt="View NearBy Services repository" /></a>
+<!-- Live demo: add a badge here once you have a deployed URL
+<a href="https://YOUR-LIVE-URL"><img src="https://img.shields.io/badge/Live_Demo-Open-0b1020?style=for-the-badge&labelColor=0b1020&color=1b2742" alt="Live demo" /></a>
+-->
+ 
+<br/><br/>
+ 
+<!-- ============================== BACKEND FOCUS ============================== -->
+<img src="assets/sec-focus.svg" alt="Backend Focus" width="100%" />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>REST APIs</b><br/>
+      <sub>Designing endpoints for ERP and booking workflows, with validation and error handling as ongoing focus areas.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Authentication &amp; access</b><br/>
+      <sub>JWT authentication, authorization and role-based access control.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Databases</b><br/>
+      <sub>PostgreSQL for relational, transactional data. MongoDB Atlas with Mongoose for flexible documents.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Transactions</b><br/>
+      <sub>PostgreSQL transactions keep multi-step ERP operations consistent.</sub>
+    </td>
+    <td valign="top">
+      <b>Real-time communication</b><br/>
+      <sub>Socket.IO for live booking updates.</sub>
+    </td>
+    <td valign="top">
+      <b>API security</b><br/>
+      <sub>Middleware-based request handling and company-level data isolation.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Testing</b><br/>
+      <sub>Integration testing with Vitest and Supertest.</sub>
+    </td>
+    <td valign="top" colspan="2">
+      <b>Docker &amp; cloud</b><br/>
+      <sub>Docker and AWS are on my learning path, alongside CI/CD.</sub>
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- ============================== GITHUB ACTIVITY ============================== -->
+<img src="assets/sec-telemetry.svg" alt="GitHub Activity" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FD8-15&show_icons=true&hide_border=false&bg_color=060a16&border_color=1b2742&title_color=7dd3fc&text_color=a9bbd6&icon_color=fbbf24&ring_color=7dd3fc" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FD8-15&layout=compact&hide_border=false&bg_color=060a16&border_color=1b2742&title_color=7dd3fc&text_color=a9bbd6" height="165" alt="Top languages" />
+</p>
+<br/>
+<!-- ============================== LEARNING ============================== -->
+<img src="assets/sec-learning.svg" alt="Currently Learning" width="100%" />
+<table>
+  <tr>
+    <td width="170"><sub><b>FOUNDATIONS</b></sub></td>
+    <td>REST / HTTP / HTTPS &nbsp;·&nbsp; API design, validation and error handling &nbsp;·&nbsp; Authentication and security</td>
+  </tr>
+  <tr>
+    <td><sub><b>POSTGRESQL</b></sub></td>
+    <td>Transactions &nbsp;·&nbsp; Concurrency &nbsp;·&nbsp; Indexing &nbsp;·&nbsp; Query optimization</td>
+  </tr>
+  <tr>
+    <td><sub><b>PERFORMANCE</b></sub></td>
+    <td>Redis &nbsp;·&nbsp; Caching &nbsp;·&nbsp; Background jobs</td>
+  </tr>
+  <tr>
+    <td><sub><b>DELIVERY</b></sub></td>
+    <td>Testing &nbsp;·&nbsp; Docker &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; AWS</td>
+  </tr>
+  <tr>
+    <td><sub><b>BEYOND</b></sub></td>
+    <td>System design &nbsp;·&nbsp; Scalability &nbsp;·&nbsp; Distributed systems &nbsp;·&nbsp; AI backend engineering</td>
+  </tr>
+</table>
+<br/>
+<!-- ============================== CONTACT ============================== -->
+<img src="assets/sec-contact.svg" alt="Contact" width="100%" />
+<p align="center">
+  Open to building, learning and collaborating on backend projects.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_/_HTTP_/_HTTPS-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Design-FF9F43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Validation-FECA57?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Auth_&_Security-1DD1A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL_Optimization-48DBFB?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis_&_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Background_Jobs-5F27CD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-FF6EC7?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-8E2DE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Backend_Engineering-FB015B?style=for-the-badge" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=FF9F43&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
+  <a href="https://github.com/FD8-15"><img src="https://img.shields.io/badge/GitHub-FD8--15-0b1020?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0b1020&color=1b2742" alt="GitHub" /></a>
+  <!-- Add LinkedIn / email / portfolio badges here, same style as the hero. -->
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FD8-15&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FD8-15&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FD8-15&theme=radical&hide_border=true" alt="Contribution streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FD8-15&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ═══════════════════════ GOAL ═══════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=8E2DE2&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Goal" alt="Goal" />
-</p>
-<p align="center">
-  <b>Build reliable backend systems, understand how production software works, and grow into a strong backend engineer.</b>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=520&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Improve+%F0%9F%9A%80" alt="Motto" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,8,12,18,24&height=130&section=footer" width="100%" />
+  <img src="assets/footer.svg" alt="End of transmission" width="100%" />
 </p>
  
